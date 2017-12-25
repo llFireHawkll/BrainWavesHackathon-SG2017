@@ -17,8 +17,8 @@ APPROACH :
 		  	12. REPEAT THE ABOVE STEPS TO IMPROVE MORE
 
 FEATURE ENGINEERING : CREATED TWO NEW FEATURES 
-					  						 1. Creation Date - Start Date
-					  						 2. Sell Date - Creation Date
+		    1. Creation Date - Start Date
+		    2. Sell Date - Creation Date
 
 USING THE COLUMN WITH HIDDEN DATA : desk_id
 
